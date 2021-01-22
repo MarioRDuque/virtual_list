@@ -9,7 +9,7 @@ import { TotemRoutingModule } from './totem-routing.module';
   declarations: [TotemListadoComponent, TotemFormularioComponent],
   imports: [
     CommonModule,
-    TotemRoutingModule
+    TotemRoutingModule 
   ]
 })
 export class TotemModule { }
